@@ -27,16 +27,6 @@ namespace DayTwo
 			
         }
 
-		public Move pickBetterMove(Move move)
-		{
-			return Move.ROCK;
-		}
-
-		public Move pickWorseMove(Move move)
-		{
-			return Move.PAPER;
-		}
-
         public enum Move
 		{
 			ROCK = 1,

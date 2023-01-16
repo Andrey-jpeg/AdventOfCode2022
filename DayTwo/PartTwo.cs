@@ -27,10 +27,13 @@ namespace DayTwo
                 switch (choice[1])
                 {
                     case ("X"):
+                        sum += (lose(enemyChoice.move));
                         break;
                     case ("Y"):
+                        sum += (3 + ((int)enemyChoice.move));
                         break;
                     case ("Z"):
+                        sum += (6 + win(enemyChoice.move));
                         break;
                 }
 
@@ -40,6 +43,39 @@ namespace DayTwo
             Console.WriteLine(sum);
 
         }
+
+        private static int win(RockPaperScissors.Move move)
+        {
+            switch(move)
+            {
+                case (RockPaperScissors.Move.PAPER):
+                    return 3;
+                case (RockPaperScissors.Move.ROCK):
+                    return 2;
+                case (RockPaperScissors.Move.SCISSORS):
+                    return 1;
+                default:
+                    return 0;
+            }
+        }
+
+        private static int lose(RockPaperScissors.Move move)
+        {
+            switch (move)
+            {
+                case (RockPaperScissors.Move.PAPER):
+                    return 1;
+                case (RockPaperScissors.Move.ROCK):
+                    return 3;
+                case (RockPaperScissors.Move.SCISSORS):
+                    return 2;
+                default:
+                    return 0;
+            }
+        }
+
     }
 }
+
+    
 
