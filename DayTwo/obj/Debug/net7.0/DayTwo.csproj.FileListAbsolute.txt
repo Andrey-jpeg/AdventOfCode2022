@@ -1,0 +1,16 @@
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/bin/Debug/net7.0/input.txt
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/bin/Debug/net7.0/DayTwo
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/bin/Debug/net7.0/DayTwo.deps.json
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/bin/Debug/net7.0/DayTwo.runtimeconfig.json
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/bin/Debug/net7.0/DayTwo.dll
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/bin/Debug/net7.0/DayTwo.pdb
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/obj/Debug/net7.0/DayTwo.csproj.AssemblyReference.cache
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/obj/Debug/net7.0/DayTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/obj/Debug/net7.0/DayTwo.AssemblyInfoInputs.cache
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/obj/Debug/net7.0/DayTwo.AssemblyInfo.cs
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/obj/Debug/net7.0/DayTwo.csproj.CoreCompileInputs.cache
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/obj/Debug/net7.0/DayTwo.dll
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/obj/Debug/net7.0/refint/DayTwo.dll
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/obj/Debug/net7.0/DayTwo.pdb
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/obj/Debug/net7.0/DayTwo.genruntimeconfig.cache
+/Users/casperandresen/Projects/AdventOfCode/DayTwo/obj/Debug/net7.0/ref/DayTwo.dll

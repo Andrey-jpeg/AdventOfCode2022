@@ -1,4 +1,4 @@
-﻿string calories = File.ReadAllText("input.txt");
+﻿string calories = File.ReadAllText(@"DayOne/input.txt").TrimEnd();
 
 string[] elfBasket = calories.Split("\n\n");
 
@@ -21,5 +21,4 @@ foreach (string s in elfBasket)
     }
 
 }
-
-Console.Write(topInts.Sum());
+Console.WriteLine(topInts.Sum());
