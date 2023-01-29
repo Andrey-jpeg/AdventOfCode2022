@@ -1,3 +1,4 @@
+/Users/casperandresen/Projects/AdventOfCode/DayThree/bin/Debug/net7.0/input.txt
 /Users/casperandresen/Projects/AdventOfCode/DayThree/bin/Debug/net7.0/DayThree
 /Users/casperandresen/Projects/AdventOfCode/DayThree/bin/Debug/net7.0/DayThree.deps.json
 /Users/casperandresen/Projects/AdventOfCode/DayThree/bin/Debug/net7.0/DayThree.runtimeconfig.json
@@ -13,4 +14,3 @@
 /Users/casperandresen/Projects/AdventOfCode/DayThree/obj/Debug/net7.0/DayThree.pdb
 /Users/casperandresen/Projects/AdventOfCode/DayThree/obj/Debug/net7.0/DayThree.genruntimeconfig.cache
 /Users/casperandresen/Projects/AdventOfCode/DayThree/obj/Debug/net7.0/ref/DayThree.dll
-/Users/casperandresen/Projects/AdventOfCode/DayThree/bin/Debug/net7.0/input.txt

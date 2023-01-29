@@ -5,7 +5,7 @@ PartTwo();
 
 static void PartOne()
 {
-    string sectionAssignments = File.ReadAllText("DayFour/input.txt").TrimEnd();
+    string sectionAssignments = File.ReadAllText("input.txt").TrimEnd();
 
     string[] pairs = sectionAssignments.Split("\n");
     
@@ -24,7 +24,7 @@ static void PartOne()
 
 static void PartTwo()
 {
-    string sectionAssignments = File.ReadAllText("DayFour/input.txt").TrimEnd();
+    string sectionAssignments = File.ReadAllText("input.txt").TrimEnd();
 
     string[] pairs = sectionAssignments.Split("\n");
     
