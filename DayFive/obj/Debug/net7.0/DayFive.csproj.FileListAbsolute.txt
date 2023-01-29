@@ -1,0 +1,16 @@
+/Users/casperandresen/Projects/AdventOfCode/DayFive/bin/Debug/net7.0/DayFive
+/Users/casperandresen/Projects/AdventOfCode/DayFive/bin/Debug/net7.0/DayFive.deps.json
+/Users/casperandresen/Projects/AdventOfCode/DayFive/bin/Debug/net7.0/DayFive.runtimeconfig.json
+/Users/casperandresen/Projects/AdventOfCode/DayFive/bin/Debug/net7.0/DayFive.dll
+/Users/casperandresen/Projects/AdventOfCode/DayFive/bin/Debug/net7.0/DayFive.pdb
+/Users/casperandresen/Projects/AdventOfCode/DayFive/obj/Debug/net7.0/DayFive.csproj.AssemblyReference.cache
+/Users/casperandresen/Projects/AdventOfCode/DayFive/obj/Debug/net7.0/DayFive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/casperandresen/Projects/AdventOfCode/DayFive/obj/Debug/net7.0/DayFive.AssemblyInfoInputs.cache
+/Users/casperandresen/Projects/AdventOfCode/DayFive/obj/Debug/net7.0/DayFive.AssemblyInfo.cs
+/Users/casperandresen/Projects/AdventOfCode/DayFive/obj/Debug/net7.0/DayFive.csproj.CoreCompileInputs.cache
+/Users/casperandresen/Projects/AdventOfCode/DayFive/obj/Debug/net7.0/DayFive.dll
+/Users/casperandresen/Projects/AdventOfCode/DayFive/obj/Debug/net7.0/refint/DayFive.dll
+/Users/casperandresen/Projects/AdventOfCode/DayFive/obj/Debug/net7.0/DayFive.pdb
+/Users/casperandresen/Projects/AdventOfCode/DayFive/obj/Debug/net7.0/DayFive.genruntimeconfig.cache
+/Users/casperandresen/Projects/AdventOfCode/DayFive/obj/Debug/net7.0/ref/DayFive.dll
+/Users/casperandresen/Projects/AdventOfCode/DayFive/bin/Debug/net7.0/input.txt

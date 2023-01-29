@@ -1,6 +1,7 @@
 {
     "version": "0.2.0",
     "configurations": [
+        
         {
             "name": ".NET Core Launch (day2)",
             "type": "coreclr",
@@ -18,6 +19,28 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/DayThree/bin/Debug/net7.0/DayThree.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET Core Launch (day4)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/DayFour/bin/Debug/net7.0/DayFour.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": ".NET Core Launch (day5)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/DayFive/bin/Debug/net7.0/DayFive.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
