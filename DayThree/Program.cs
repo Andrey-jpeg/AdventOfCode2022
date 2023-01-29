@@ -6,7 +6,7 @@ PartTwo();
 
 static void PartOne()
 {
-    string rucksacks = File.ReadAllText("DayThree/input.txt").TrimEnd();
+    string rucksacks = File.ReadAllText("input.txt").TrimEnd();
 
     var characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray();
 
@@ -36,7 +36,7 @@ static void PartOne()
 static void PartTwo()
 {
 
-    string rucksacks = File.ReadAllText("DayThree/input.txt").TrimEnd();
+    string rucksacks = File.ReadAllText("input.txt").TrimEnd();
 
     var characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray();
 

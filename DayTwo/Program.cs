@@ -16,7 +16,7 @@ void PartOne()
                 { "Z", new RockPaperScissors(move: RockPaperScissors.Move.SCISSORS)}
             };
 
-    string games = File.ReadAllText("DayTwo/input.txt").TrimEnd();
+    string games = File.ReadAllText("input.txt").TrimEnd();
 
     string[] singleGame = games.Split("\n");
 
@@ -43,7 +43,7 @@ void PartOne()
         }
     }
 
-    Debug.WriteLine(sum);
+    Console.WriteLine(sum);
 }
 
 void PartTwo()
@@ -55,7 +55,7 @@ void PartTwo()
                 { "C", new RockPaperScissors(move: RockPaperScissors.Move.SCISSORS)},
             };
 
-    string games = File.ReadAllText("DayTwo/input.txt").TrimEnd();
+    string games = File.ReadAllText("input.txt").TrimEnd();
 
     string[] singleGame = games.Split("\n");
 
@@ -83,7 +83,7 @@ void PartTwo()
 
     }
 
-    Debug.WriteLine(sum);
+    Console.WriteLine(sum);
 }
 
 static int win(RockPaperScissors.Move move)
