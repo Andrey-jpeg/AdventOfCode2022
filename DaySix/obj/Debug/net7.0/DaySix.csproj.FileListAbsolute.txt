@@ -1,0 +1,16 @@
+/Users/casperandresen/Projects/AdventOfCode/DaySix/bin/Debug/net7.0/input.txt
+/Users/casperandresen/Projects/AdventOfCode/DaySix/bin/Debug/net7.0/DaySix
+/Users/casperandresen/Projects/AdventOfCode/DaySix/bin/Debug/net7.0/DaySix.deps.json
+/Users/casperandresen/Projects/AdventOfCode/DaySix/bin/Debug/net7.0/DaySix.runtimeconfig.json
+/Users/casperandresen/Projects/AdventOfCode/DaySix/bin/Debug/net7.0/DaySix.dll
+/Users/casperandresen/Projects/AdventOfCode/DaySix/bin/Debug/net7.0/DaySix.pdb
+/Users/casperandresen/Projects/AdventOfCode/DaySix/obj/Debug/net7.0/DaySix.csproj.AssemblyReference.cache
+/Users/casperandresen/Projects/AdventOfCode/DaySix/obj/Debug/net7.0/DaySix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/casperandresen/Projects/AdventOfCode/DaySix/obj/Debug/net7.0/DaySix.AssemblyInfoInputs.cache
+/Users/casperandresen/Projects/AdventOfCode/DaySix/obj/Debug/net7.0/DaySix.AssemblyInfo.cs
+/Users/casperandresen/Projects/AdventOfCode/DaySix/obj/Debug/net7.0/DaySix.csproj.CoreCompileInputs.cache
+/Users/casperandresen/Projects/AdventOfCode/DaySix/obj/Debug/net7.0/DaySix.dll
+/Users/casperandresen/Projects/AdventOfCode/DaySix/obj/Debug/net7.0/refint/DaySix.dll
+/Users/casperandresen/Projects/AdventOfCode/DaySix/obj/Debug/net7.0/DaySix.pdb
+/Users/casperandresen/Projects/AdventOfCode/DaySix/obj/Debug/net7.0/DaySix.genruntimeconfig.cache
+/Users/casperandresen/Projects/AdventOfCode/DaySix/obj/Debug/net7.0/ref/DaySix.dll
